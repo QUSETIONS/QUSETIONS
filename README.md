@@ -44,17 +44,6 @@
 
 ---
 
-## 🧪 代表性研究与论文
-
-- **共同第一作者**，*View-Conditioned Semi-Supervised Learning for Fetal Cardiac Ultrasound Analysis*，IEEE ISBI 2026，已接收。
-- **第一作者**，*Artificial Intelligence for Cancer Diagnosis and Treatment: Clinical Evidence, Governance Framework, and Future Directions*，入选 CSBME 医学人工智能青年论坛，2025。
-- **共同第一作者**，*Interface-Attached Information Bounds for Runtime Detection in Vision-Language-Action Policies*，NeurIPS 2026 在投。
-- **第一作者**，*A Detection-Theoretic Explanation of Sparse Autoencoder Dark Matter*，NeurIPS 2026 在投。
-- 第二作者，*Timescale Coalescence Makes Hidden Persistent Forcing Spectrally Dark*，Physical Review E，外审中。
-- 第二作者，*Grokking as a Falsifiable Finite-Size Transition*，Physical Review E，under review。
-
----
-
 ## 🧰 精选项目
 
 ### MiniCode-Python - 终端 AI 编程助手
@@ -80,19 +69,6 @@
 构建多模态生物医学数据处理与实验管线，覆盖清洗、时间窗切片、样本对齐、early / late / attention fusion 和不平衡样本处理。
 
 `PyTorch` `Multimodal Fusion` `Temporal Modeling` `Biomedical Signals`
-
----
-
-## 🏅 成果与荣誉
-
-- 2025 iGEM 国际基因工程机器大赛金奖
-- 2026 美国大学生数学建模竞赛 Honorable Mention
-- 全国大学生数学竞赛北京赛区一等奖
-- 全国部分地区大学生物理竞赛国家级一等奖
-- “京彩大创”北京市一等奖
-- “挑战杯”全国二等奖
-- 中国国际大学生创新大赛三等奖
-- 北京理工大学优秀学生学业奖学金 2 次
 
 ---
 
