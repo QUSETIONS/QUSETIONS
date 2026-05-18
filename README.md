@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Medical AI, Brain Science, Biomedical Agents" width="100%" />
+  <img src="./assets/profile-banner.png" alt="医学 AI、脑科学与生物医学智能体" width="100%" />
 </p>
 
 ---
